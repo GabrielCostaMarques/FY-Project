@@ -1,9 +1,12 @@
 .banner{
     background-color: #ad7ffc;
     text-align: center;
+    height: 100%;
 }
 
 
 .banner img{
    max-width: 100%;
+   height:400px;
+
 }

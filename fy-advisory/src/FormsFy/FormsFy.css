@@ -1,0 +1,20 @@
+.forms{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.forms form{
+    max-width: 100%;
+    background-image: radial-gradient(circle at 37.72% 119.64%, #dd7aef 0, #c873e4 25%, #b46cd8 50%, #a065cb 75%, #8e5ebf 100%);
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+}
+.forms form input{
+    border-radius: 16px;
+}
+
+.forms h2{
+    margin-bottom: 60px;
+}

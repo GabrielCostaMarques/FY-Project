@@ -15,6 +15,7 @@ const FormsFy=()=>{
         alert("O form foi submetido")
     }
     return(
+        
        <section className="forms">        
             <form onSubmit={Save}> 
                 <h2>Preencha o campo para podermos encaminhar novidades!</h2>
